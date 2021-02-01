@@ -15,7 +15,7 @@ class Interest extends Component {
           initiallyVisible={true}
         >
           <span className={classes.head}>QUE Ce JE FAIS?</span>
-          <h2 className={classes.heading}>HERE ARE SOME OF MY EXPERTISE</h2>
+          <h2 className={classes.heading}>VOICI QUELQUES DE MON EXPERTISE</h2>
           <div className={classes.Interest}>
             <ScrollAnimation
               offset="0"
