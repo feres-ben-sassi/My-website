@@ -31,14 +31,15 @@ class Sidebar extends Component {
           </li>
           <li className="sidebar-nav-items">
             <Link smooth to="/#interest" className="links">
-              COMPÉTENCE
+              PROJETS
             </Link>
           </li>
           <li className="sidebar-nav-items">
             <Link smooth to="/#interest" className="links">
-              PROJETS
+              COMPÉTENCE
             </Link>
           </li>
+
           {/* <li className="sidebar-nav-items">
             <a
               href="http://blogs.thesachin.in"
