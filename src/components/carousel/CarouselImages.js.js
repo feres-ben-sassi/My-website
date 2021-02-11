@@ -31,7 +31,7 @@ class CarouselImages extends Component {
             <div className={classes.h1}>
               <h1>Je m'appel Féres</h1>
               <a
-                href="https://drive.google.com/open?id=1UEYXr47N9yD_9JxY457Vul4BwRizNVfv"
+                href="https://drive.google.com/file/d/1ba-3BQHmEpg-6ryfalfTVRQY9wD5KsN_/view?usp=sharing"
                 rel="opener noreferrer"
                 target="_blank"
               >
