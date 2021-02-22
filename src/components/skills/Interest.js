@@ -25,7 +25,7 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.web}>
-                <h3>Club Africain Volley Ball section </h3>
+                <h3>Club Africain section Volley Ball </h3>
                 <p>
                   Création d'un site web pour la section volleyball de club
                   africain
@@ -43,13 +43,13 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.web}>
-                <h3>Club Africain Volley Ball section </h3>
+                <h3>Best Price </h3>
                 <p>
-                  Création d'un site web pour la section volleyball de club
-                  africain
+                  Création d'un site web et d'une application mobile ,
+                  comparateur de prix
                   <br />
-                  en utilisant Reactjs , Nodejs , Expressjs , MongoDB , HTML5 ,
-                  CSS3 , Bootstrap4
+                  en utilisant Flutter , Reactjs , Nodejs , Expressjs , MongoDB
+                  , HTML5 , CSS3 , Bootstrap4
                 </p>
               </div>
             </ScrollAnimation>
@@ -61,13 +61,11 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.web}>
-                <h3>Club Africain Volley Ball section </h3>
+                <h3>Kouka Travel Event</h3>
                 <p>
-                  Création d'un site web pour la section volleyball de club
-                  africain
+                  Création d'un site web d'une agence de voyage
                   <br />
-                  en utilisant Reactjs , Nodejs , Expressjs , MongoDB , HTML5 ,
-                  CSS3 , Bootstrap4
+                  en utilisant JavaScript , HTML5 , CSS3 , Bootstrap4
                 </p>
               </div>
             </ScrollAnimation>
