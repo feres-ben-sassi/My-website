@@ -45,7 +45,7 @@ class CarouselImages extends Component {
               <h1> I love building</h1>
               <h1>THINGS!!</h1>
               <a
-                href="https://github.com/mittalsam98"
+                href="https://github.com/feres-ben-sassi"
                 rel="opener noreferrer"
                 target="_blank"
               >
@@ -53,13 +53,7 @@ class CarouselImages extends Component {
               </a>
             </div>
           </div>
-          {/* <div className={classes.image_container}>
-                    <img className={classes.image} src={laptop1} alt="myImage"/>
-                    <div  className={classes.h1}> 
-                    </div>
-                </div> */}
         </Carousel>
-        {/* </ScrollAnimation> */}
       </div>
     );
   }
