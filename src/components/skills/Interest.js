@@ -25,11 +25,13 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.web}>
-                <h3>Other's Interest</h3>
+                <h3>Club Africain Volley Ball section </h3>
                 <p>
-                  I also have decent hand in developing website with WordPress.
-                  <br /> Adobe Photoshop, Adobe Illustrator, MS Office, C++,
-                  Github are my other fields of interest.{" "}
+                  Création d'un site web pour la section volleyball de club
+                  africain
+                  <br />
+                  en utilisant Reactjs , Nodejs , Expressjs , MongoDB , HTML5 ,
+                  CSS3 , Bootstrap4
                 </p>
               </div>
             </ScrollAnimation>
@@ -40,13 +42,14 @@ class Interest extends Component {
               animateOnce="true"
               initiallyVisible={true}
             >
-              <div className={classes.app}>
-                <h3>Web Develpoment</h3>
+              <div className={classes.web}>
+                <h3>Club Africain Volley Ball section </h3>
                 <p>
-                  I am a full stack web developer (MERN) and build websites
-                  using HTML, CSS, Javascript, React.
-                  <br /> I have also good grasp on Node, SQL(MySQL) and
-                  NoSQL(MongoDb)
+                  Création d'un site web pour la section volleyball de club
+                  africain
+                  <br />
+                  en utilisant Reactjs , Nodejs , Expressjs , MongoDB , HTML5 ,
+                  CSS3 , Bootstrap4
                 </p>
               </div>
             </ScrollAnimation>
@@ -57,11 +60,14 @@ class Interest extends Component {
               animateOnce="true"
               initiallyVisible={true}
             >
-              <div className={classes.other}>
-                <h3>APP Develpoment</h3>
+              <div className={classes.web}>
+                <h3>Club Africain Volley Ball section </h3>
                 <p>
-                  I also have knowledge of flutter development and have
-                  experience in building android and IOS applications.{" "}
+                  Création d'un site web pour la section volleyball de club
+                  africain
+                  <br />
+                  en utilisant Reactjs , Nodejs , Expressjs , MongoDB , HTML5 ,
+                  CSS3 , Bootstrap4
                 </p>
               </div>
             </ScrollAnimation>
