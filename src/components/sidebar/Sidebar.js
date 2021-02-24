@@ -36,7 +36,7 @@ class Sidebar extends Component {
             </Link>
           </li>
           <li className="sidebar-nav-items">
-            <Link smooth to="/#interest" className="links">
+            <Link smooth to="/#skills" className="links">
               COMPÉTENCE
             </Link>
           </li>
