@@ -70,6 +70,58 @@ class Interest extends Component {
               </div>
             </ScrollAnimation>
           </div>
+          <div className={classes.Interest}>
+            <ScrollAnimation
+              offset="0"
+              animateIn="fadeInLeft"
+              duration="2.4"
+              animateOnce="true"
+              initiallyVisible={true}
+            >
+              <div className={classes.web}>
+                <h3>Focus Tv </h3>
+                <p>
+                  Un site web et une application de séries et films
+                  <br />
+                  en utilisant React Native , Reactjs , Nodejs , Expressjs ,
+                  MongoDB , HTML5 , CSS3 , Bootstrap4
+                </p>
+              </div>
+            </ScrollAnimation>
+            <ScrollAnimation
+              offset="0"
+              animateIn="fadeInLeft"
+              duration="2.4"
+              animateOnce="true"
+              initiallyVisible={true}
+            >
+              <div className={classes.web}>
+                <h3>Salla Salla</h3>
+                <p>
+                  Un site web et une application mobile de tourisme culinaire.
+                  <br />
+                  en utilisant Flutter , Android , MySQL , PHP5 , FireBase ,
+                  HTML5 , CSS3 , Bootstrap4
+                </p>
+              </div>
+            </ScrollAnimation>
+            <ScrollAnimation
+              offset="0"
+              animateIn="fadeInLeft"
+              duration="2.4"
+              animateOnce="true"
+              initiallyVisible={true}
+            >
+              <div className={classes.web}>
+                <h3>SMA Tunisienne Buisness</h3>
+                <p>
+                  Création d'un site web d'une agence de comptabilité
+                  <br />
+                  en utilisant WordPress
+                </p>
+              </div>
+            </ScrollAnimation>
+          </div>
         </ScrollAnimation>
       </div>
     );
