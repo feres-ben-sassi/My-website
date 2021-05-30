@@ -41,18 +41,30 @@ class CarouselImages extends Component {
           </div>
           <div className={classes.image_container}>
             <img className={classes.image} src={Pencil} alt="myImage" />
-            <div className={classes.h2}>
+            <div className={classes.h1}>
               <h1> I love building</h1>
               <h1>THINGS!!</h1>
-              <a
-                href="https://github.com/feres-ben-sassi"
-                rel="opener noreferrer"
-                target="_blank"
-              >
+              <a href="https://github.com/feres-ben-sassi">
                 CONSULTEZ MES PROJETS <GoProject />
               </a>
             </div>
           </div>
+          {/* <div className={classes.image_container}>
+            <img className={classes.image} src={Pencil} alt="myImage" />
+            <div className={classes.h2}>
+              <h1> I love building</h1>
+              <h1>THINGS!!</h1>
+              <div className="p-0 m-0">
+                <a
+                  href="https://github.com/feres-ben-sassi"
+                  rel="opener noreferrer"
+                  target="_blank"
+                >
+                  CONSULTEZ MES PROJETS <GoProject />
+                </a>
+              </div>
+            </div>
+          </div> */}
         </Carousel>
       </div>
     );
