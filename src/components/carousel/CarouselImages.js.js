@@ -45,7 +45,7 @@ class CarouselImages extends Component {
               <h1> I love building</h1>
               <h1>THINGS!!</h1>
               <a href="https://github.com/feres-ben-sassi">
-                CONSULTEZ MES PROJETS <GoProject />
+                MES PROJETS <GoProject />
               </a>
             </div>
           </div>

@@ -16,7 +16,7 @@ class App extends Component {
           <div className="side">
             <nav className="navbar side navbar-expand-lg navbar-light p-0">
               <button
-                className="navbar-toggler"
+                className="navbar-toggler bg-green"
                 type="button"
                 data-toggle="collapse"
                 data-target="#navbarSupportedContent"
