@@ -1,6 +1,6 @@
 {
-  "name": "mittal",
-  "version": "0.1.0",
+  "name": "fbs",
+  "version": "1.8.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
